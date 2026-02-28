@@ -173,6 +173,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 📧 Contact
 # TEAM ID:LTVIP2026TMIDS68145
 # Project Lead: M.Pooja Shree
-# Team Members: Madhu sri,P.Soniya 
+# Team Members: P.Madhusree,P.Soniya 
 Developed as part of the Smart Bridge AI Internship Program.
+
 
